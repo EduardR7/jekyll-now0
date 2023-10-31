@@ -1,4 +1,7 @@
-collections:
+theme: jekyll-theme-minimal
+title: Edward
+description: A simple html
+show_downloads: false
   authors:
     output: true
 plugins:
